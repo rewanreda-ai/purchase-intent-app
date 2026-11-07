@@ -2,7 +2,8 @@
 
 Most online shoppers leave without buying. This app predicts, during a browsing session, whether a visitor will purchase, so a store can show a chat assistant or a small coupon only to the visitors who need it.
 
-**Live app:** https://purchase-intent-app-prapkky4npbpzbjw6n9h7e.streamlit.app
+**Live app:** https://purchase-intent-app-prappkky4npbpzbjw6n9h7e.streamlit.app/
+
 
 ![App form](screenshot1.png)
 ![App result](screenshot2.png)
